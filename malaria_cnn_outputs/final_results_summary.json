@@ -1,0 +1,20 @@
+{
+  "project": "Malaria Cell Classification",
+  "test_metrics": {
+    "test_accuracy": 0.9615384615384616,
+    "test_precision": 0.9631067961165048,
+    "test_recall": 0.9598451862602806,
+    "test_f1_score": 0.9614732251029804,
+    "test_roc_auc": 0.9904071139796967
+  },
+  "training_summary": {
+    "model": "Baseline CNN",
+    "epochs_completed": 17,
+    "best_epoch": 13,
+    "best_validation_loss": 0.10990462452173233,
+    "best_validation_accuracy": 0.9625060558319092
+  },
+  "misclassified_images": 159,
+  "additional_experiments_completed": [],
+  "validation_note": "Check duplicate/near-duplicate and source-group leakage before making generalization claims."
+}

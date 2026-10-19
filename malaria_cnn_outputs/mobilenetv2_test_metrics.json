@@ -1,0 +1,14 @@
+{
+  "model": "MobileNetV2 transfer learning",
+  "test_size": 4134,
+  "test_loss": 0.18626175820827484,
+  "test_accuracy": 0.9296081066131592,
+  "test_precision": 0.9413518905639648,
+  "test_recall": 0.916303813457489,
+  "test_f1": 0.928658976600027,
+  "test_auc": 0.9789334535598755,
+  "training_seconds": 177.83699798583984,
+  "best_epoch": 6,
+  "parameter_count": 2259265,
+  "model_file_size_bytes": 9636525
+}

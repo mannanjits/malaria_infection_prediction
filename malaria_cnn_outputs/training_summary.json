@@ -1,0 +1,7 @@
+{
+    "model": "Baseline CNN",
+    "epochs_completed": 17,
+    "best_epoch": 13,
+    "best_validation_loss": 0.10990462452173233,
+    "best_validation_accuracy": 0.9625060558319092
+}

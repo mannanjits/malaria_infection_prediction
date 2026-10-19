@@ -1,0 +1,19 @@
+{
+    "project": "Malaria Cell Image Classification",
+    "image_height": 128,
+    "image_width": 128,
+    "channels": 3,
+    "normalization": "divide pixel values by 255.0",
+    "batch_size": 32,
+    "seed": 42,
+    "class_mapping": {
+        "Uninfected": 0,
+        "Parasitized": 1
+    },
+    "split_ratios": {
+        "train": 0.7,
+        "validation": 0.15,
+        "test": 0.15
+    },
+    "path_format": "relative to DATASET_DIR"
+}
