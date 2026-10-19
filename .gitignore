@@ -1,0 +1,10 @@
+
+# Generated model checkpoints and large artifacts
+*.keras
+*.h5
+*.hdf5
+
+# Generated datasets and caches
+__pycache__/
+.ipynb_checkpoints/
+data/cell_images.zip
